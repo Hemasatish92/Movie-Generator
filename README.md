@@ -42,7 +42,7 @@ Follow the steps below to set up and run the Movie Concept Generator locally:
 
 1. **Clone the Repository**
 ```bash
-   git clone https://github.com/lochan87/movie_concept.git
+   https://github.com/Hemasatish92/Movie-Generator.git
    cd movie_concept
 ```
 2. **(Optional) Create a Virtual Environment**
@@ -111,3 +111,4 @@ The project uses the **DistilBERT** model from Hugging Face Transformers, a dist
   Interprets text to create coherent visual themes and cinematic mood descriptions.
 
 🔗 **Model Used:** [DistilBERT Base Uncased](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
+
